@@ -4,4 +4,10 @@ body {
 div ˙{
     background-image: url(helyettes.png);
     width: 650px; height: 200px;
+    background-color: rgb 89, 52, 27);
+}
+table {
+    width: 670px;
+    table-layout: auto;
+    margin: 0%;
 }
